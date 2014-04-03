@@ -1,1 +1,5 @@
 hello!
+
+So we made our fist commit, 
+
+and now I'm addign text
